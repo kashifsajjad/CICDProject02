@@ -1,3 +1,5 @@
 welcome to smartgit GUI
 
 lines deleted
+
+new lines have been added
